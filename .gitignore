@@ -1,0 +1,27 @@
+
+catboost_info/.DS_Store
+.DS_Store
+catboost_info/catboost_training.json
+catboost_info/learn/events.out.tfevents
+catboost_info/learn_error.tsv
+catboost_info/test/events.out.tfevents
+catboost_info/test_error.tsv
+catboost_info/time_left.tsv
+машинное обучение/.ipynb_checkpoints/part_1 (анализ данных по влажности почвы, работа со временем, нахождение средних значений)-checkpoint.ipynb
+машинное обучение/.ipynb_checkpoints/part_2 (Интерполяция и Фурье-фильтрация)-checkpoint.ipynb
+машинное обучение/.ipynb_checkpoints/part_4 (ML)-checkpoint.ipynb
+машинное обучение/.ipynb_checkpoints/part_4 (ml)-выбор_лучшей_модели-checkpoint.ipynb
+машинное обучение/.ipynb_checkpoints/part_4 (ml)-выбор_лучшей_модели-Copy1-checkpoint.ipynb
+машинное обучение/.ipynb_checkpoints/part_4 (ml)-пробы-checkpoint.ipynb
+машинное обучение/.ipynb_checkpoints/part_5 (Графики для модели 2d)-checkpoint.ipynb
+машинное обучение/.ipynb_checkpoints/анализ зависимостей влажности почвы и cвета-checkpoint.ipynb
+Фурье-анализ/.ipynb_checkpoints/анализ зависимостей влажности почвы и co2-checkpoint.ipynb
+Фурье-анализ/.ipynb_checkpoints/анализ зависимостей влажности почвы и cвета-checkpoint.ipynb
+машинное обучение/models_v5/model_1.pkl
+машинное обучение/models_v5/model_2.pkl
+машинное обучение/models_v5/model_4.pkl
+машинное обучение/models_v5/model_8.pkl
+машинное обучение/models_v5/power_transformer.pkl
+машинное обучение/models_v5/standard_scaler.pkl
+машинное обучение/models_v5/X.out
+машинное обучение/models_v5/y.out
